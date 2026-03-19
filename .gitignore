@@ -1,0 +1,8 @@
+# Binary Name
+binary
+
+# Object File
+*.o
+
+# Test
+vgcore*
